@@ -9,14 +9,14 @@
 class Solution:
     def findBottomLeftValue(self, root: TreeNode) -> int:
         self.flag = []
-        self.InOrder(root)
+        self.Search(root)
         print(self.flag)
         return self.flag[-1]
 
-    def InOrder(self, root, deep=0):
+    def Search(self, root, deep=0):
         if root is None:
             return
         if len(self.flag) == deep:
             self.flag.append(root.val)
-        self.InOrder(root.left, deep+1)
-        self.InOrder(root.right, deep+1)
+        self.Search(root.left, deep+1)
+        self.Search(root.right, deep+1)
