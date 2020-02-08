@@ -15,3 +15,4 @@
   * [39.combination-sum](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/39.combination-sum.py)
   * [1325.delete-leaves-with-a-given-valu](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/1325.delete-leaves-with-a-given-valu.py)
   * [89.gray-code](https://github.com/ZqtCtios/LeetCode/blob/master/%E9%A2%98%E8%A7%A3/89.gray-code.md)
+  * [537.complex_number](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/537.complex_number.py)
