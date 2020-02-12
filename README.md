@@ -18,3 +18,8 @@
   * [537.complex_number](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/537.complex_number.py)
   * [114.flatten-binary-tree-to-linked-list](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/114.flatten-binary-tree-to-linked-list.py)
   * [1161.maximum-level-sum-of-a-binary-tree](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/1161.maximum-level-sum-of-a-binary-tree.py)
+  * [2.add-two-numbers](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/2.add-two-numbers.py)
+  * [3.longest-substring-without-repeating-characters](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/3.longest-substring-without-repeating-characters.py)
+  * [19.remove-nth-node-from-end-of-list](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/19.remove-nth-node-from-end-of-list.py)
+  * [5.longest-palindromic-substring](https://github.com/ZqtCtios/LeetCode/blob/master/code/CPP/5.longest-palindromic-substring.cpp)
+  * [11.container-with-most-water](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/container-with-most-water.py)
