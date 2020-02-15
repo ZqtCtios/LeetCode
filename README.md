@@ -29,3 +29,8 @@
   * [24.swap-nodes-in-pairs](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/24.swap-nodes-in-pairs.py)
   * [46.permutations](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/46.permutations.py)
   * [34.find-first-and-last-position-of-element-in-sorted-array](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/34.find-first-and-last-position-of-element-in-sorted-array.py)
+  * [33.search-in-rotated-sorted-array](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/33.search-in-rotated-sorted-array.py)
+  * [102.binary-tree-level-order-traversal](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/102.binary-tree-level-order-traversal.py)
+  * [4.median-of-two-sorted-arrays](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/4.median-of-two-sorted-arrays.py)
+* Hard
+  * [23.merge-k-sorted-lists](https://github.com/ZqtCtios/LeetCode/blob/master/题解/23.merge-k-sorted-lists.md)
