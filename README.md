@@ -34,3 +34,4 @@
   * [4.median-of-two-sorted-arrays](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/4.median-of-two-sorted-arrays.py)
 * Hard
   * [23.merge-k-sorted-lists](https://github.com/ZqtCtios/LeetCode/blob/master/题解/23.merge-k-sorted-lists.md)
+  * [25.reverse-nodes-in-k-group](https://github.com/ZqtCtios/LeetCode/blob/master/code/Python/25.reverse-nodes-in-k-group.py)
